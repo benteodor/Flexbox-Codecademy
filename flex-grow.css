@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+}
+.side {
+    width: 100px;
+    flex-grow: 1;
+}
+.center {
+    width: 100px;
+    flex-grow: 2;
+}
